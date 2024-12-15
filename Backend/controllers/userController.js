@@ -33,7 +33,7 @@ export const register = async (req, res) => {
     return res.status(201).json({
         user,
         accessToken,
-        message:"User Registred"
+        message:"User Registred!"
     })
 
 
