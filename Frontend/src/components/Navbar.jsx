@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     <div>
       <nav>
+<div>TravelDiary</div>
 
         <ul>
         <li>Home</li>
